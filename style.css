@@ -1,0 +1,55 @@
+body{
+  background-color: rgba(241, 239, 128, 1);
+}
+
+header{
+  text-align: center;
+}
+
+div{
+  /*border: solid;*/
+  box-sizing: border-box;
+}
+
+.infos{
+  text-align: center;
+  overflow: hidden;
+}
+
+.info{
+  width: 50%;
+  float: left;
+}
+
+.infos .score{
+  text-align: left;
+}
+
+.infos .vies{
+  text-align: right;
+}
+
+.vignette{
+  text-align: center;
+}
+
+.choix{
+  width: 100%;
+  display: block;
+  overflow: hidden;
+}
+
+.choix-bouton-div{
+  width: 50%;
+  text-align: center;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+footer{
+  display: block;
+  text-align: center;
+  margin-top: 50px;
+
+}
